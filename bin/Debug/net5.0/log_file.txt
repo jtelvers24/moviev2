@@ -1,0 +1,4 @@
+2022-02-14 12:36:10.5929|INFO|SleepData.Program|Sample informational message
+2022-02-14 12:36:10.6146|WARN|SleepData.Program|Sample warning message
+2022-02-14 12:36:10.6183|ERROR|SleepData.Program|Sample error message
+2022-02-14 12:36:10.6183|FATAL|SleepData.Program|Sample fatal error message
